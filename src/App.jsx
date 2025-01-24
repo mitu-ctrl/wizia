@@ -6,6 +6,7 @@ import Leads from './component/Leads'
 import './App.css'
 import LogoArea from './component/LogoArea'
 import Control from './component/Control'
+import Train from './component/Train'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
 <Leads/>
 <LogoArea/>
 <Control/>
+<Train/>
     </>
   )
 }
