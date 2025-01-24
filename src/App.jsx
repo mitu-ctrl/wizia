@@ -5,6 +5,7 @@ import Leads from './component/Leads'
 
 import './App.css'
 import LogoArea from './component/LogoArea'
+import Control from './component/Control'
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
      <NavArea/>
 <Leads/>
 <LogoArea/>
+<Control/>
     </>
   )
 }
