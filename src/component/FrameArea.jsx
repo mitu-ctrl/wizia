@@ -1,6 +1,6 @@
 import React from 'react'
 
-function allocateArea() {
+function  FrameArea() {
 
     const persent =[
         {
@@ -44,4 +44,4 @@ function allocateArea() {
   )
 }
 
-export default allocateArea
+export default FrameArea
