@@ -11,7 +11,7 @@ import CardSlider from './component/CardSlider';
 
 import GetStarted from './component/GetStarted'
 import FrameArea from './component/FrameArea'
-
+import footerArea from './component/footerArea'
 
 function App() {
   
@@ -28,6 +28,7 @@ function App() {
 <FrameArea/>
 
 <GetStarted/>
+<footerArea/>
     </>
   )
 }
