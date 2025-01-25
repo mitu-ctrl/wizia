@@ -31,7 +31,7 @@ const Next = ()=>{
 
   return (
     <section className='container py-8'>
-<div className='flex items-center justify-between'>
+<div className='flex items-center justify-between px-2'>
 <svg onClick={Prev} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6 bg-[#96ACAF33] rounded-lg stroke-primary">
   <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
 </svg>
