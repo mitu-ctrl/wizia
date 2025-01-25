@@ -20,7 +20,7 @@ function Control() {
         },]
 
     return (
-        <section className='grid grid-col-1 md:grid-cols-3 justify-center items-center gap-6 py-20 mx-16 max-w-[1440px]' >
+        <section className='grid grid-col-1 md:grid-cols-3 justify-center items-center gap-6 py-4 md:py-20 mx-2 md:mx-16 max-w-[1440px]' >
 
             {CardData.map((data, i) => (
                 <div key={i} className='bg-[#002228] w-[360px] h-[260px] p-4 rounded-xl hover:translate-y-2 duration-500 trasition'>

@@ -8,6 +8,7 @@ import LogoArea from './component/LogoArea'
 import Control from './component/Control'
 import Train from './component/Train'
 import CardSlider from './component/CardSlider'
+import AllocateArea from './component/AllocateArea'
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
 <Train/>
 
 <CardSlider/>
+<AllocateArea/>
     </>
   )
 }

@@ -7,7 +7,7 @@ function Leads() {
     style={{
       backgroundImage: "url(/Img.png)",
     }}>
-      <div className=' mx-16  w-1/2'>
+      <div className='mx-4 md:mx-16  w-1/2'>
 <p className='text-primary text-xl'>AI SDRs (aiDRs)</p>
 <h3 className='text-4xl md:text-6xl'>More <span className='italic'>leads, </span> less <span className='italic'>people.</span></h3>
 <p className='text-gray-300 text-xl my-3'>Train an aiDR on your ICP and messaging matrix. Activate it on a patch. It will send personalized sequences to every target contact.</p>
