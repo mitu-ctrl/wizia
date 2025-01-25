@@ -7,6 +7,7 @@ import './App.css'
 import LogoArea from './component/LogoArea'
 import Control from './component/Control'
 import Train from './component/Train'
+import CardSlider from './component/CardSlider'
 
 
 function App() {
@@ -19,6 +20,8 @@ function App() {
 <LogoArea/>
 <Control/>
 <Train/>
+
+<CardSlider/>
     </>
   )
 }
